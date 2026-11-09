@@ -1,6 +1,6 @@
 # Advanced Database Systems Portfolio (MIT 8103)
 **Student Name:** [Mary Adelaja]  
-**Matric / Student ID:** [301897664]  
+**Student ID:** [301897664]  
 **Session / Semester:** 2026/2027 Academic Session - First Semester  
 **University:** MIVA Open University  
 **Course Code:** MIT 8103 - Advanced Database Systems  
